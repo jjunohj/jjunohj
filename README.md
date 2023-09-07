@@ -7,11 +7,16 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
+<p align="center">
 ![](https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-light-mode-only)
+</p>
 
+<p align="center">
 ![](https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/languages.svg#gh-light-mode-only)
+</p>
 
-
+<p align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjunohj)](https://solved.ac/jjunohj/)
+</p>
