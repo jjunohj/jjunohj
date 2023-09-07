@@ -31,4 +31,4 @@ I strive for the best user experience. 💎
   <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjunohj)](https://solved.ac/백준아이디)
