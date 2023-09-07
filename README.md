@@ -29,6 +29,5 @@ I strive for the best user experience. 💎
   <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
   <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjunohj"/>
 </p>
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjunohj)](https://solved.ac/백준아이디)
