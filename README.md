@@ -2,8 +2,8 @@
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-3274C0?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3274C0?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
