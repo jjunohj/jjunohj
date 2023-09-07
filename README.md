@@ -2,7 +2,9 @@
 
 <p align="center">
 Hi, there ! 👋🏻
+  <br />
 I'm both a FE developer and a sensitive user. 🧑🏻‍💻
+  <br />
 I strive for the best user experience. 💎
 </p>
 
