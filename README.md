@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-![](https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></a>&nbsp
+  <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-light-mode-only"/></a>&nbsp 
+
 ![](https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </p>
 
