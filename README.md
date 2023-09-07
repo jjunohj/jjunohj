@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=50:a1c4fd,100:c2e9fb&height=150&section=header&text=Junho%20Cheong&fontSize=64&fontColor=808080&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=50:a1c4fd,100:c2e9fb&height=150&section=header&text=Junho%20Cheong&fontSize=72&fontColor=868e96&animation=fadeIn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunohj&show_icons=true&theme=transparent)
 
