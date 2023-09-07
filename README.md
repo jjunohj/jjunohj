@@ -10,8 +10,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></a>&nbsp
   <img src="https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-light-mode-only"/></a>&nbsp 
-
-![](https://raw.githubusercontent.com/jjunohj/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </p>
 
 <p align="center">
