@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50:a1c4fd,100:c2e9fb&height=120&section=header&text=Junho%20Cheong&fontSize=64&fontColor=343a40&animation=fadeIn)
 
-
+<p align="center">
 Hi, there ! 👋🏻
 I'm both a FE developer and a sensitive user. 🧑🏻‍💻
 I strive for the best user experience. 💎
+</p>
 
 <hr />
 
