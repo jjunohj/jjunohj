@@ -19,8 +19,18 @@ I strive for the best user experience. 💎
   <br>
   
   <img src="https://img.shields.io/badge/TypeScript-3274C0?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Postgresql-#4169E1?style=for-the-badge&logo=Postgresql&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/Git-#F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-#3776AB?style=for-the-badge&logo=GitHub&logoColor=white">
+  
 </p>
+
 
 <hr />
 
