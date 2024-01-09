@@ -1,13 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50:a1c4fd,100:c2e9fb&height=120&section=header&text=Junho%20Cheong&fontSize=64&fontColor=343a40&animation=fadeIn)
 
 <p align="center">
-Hi, there ! 👋🏻
-  <br />
-I'm both a FE developer and a sensitive user. 🧑🏻‍💻
-  <br />
-I strive for the best user experience. 💎
-  <br />
-Also try to write a grounded code for goal 🚀
+유저의 눈을 가진 프론트엔드 개발자입니다.
+근거있는 코드를 작성하기 위해 노력 중입니다.
 </p>
 
 <hr />
