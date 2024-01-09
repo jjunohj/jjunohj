@@ -7,7 +7,7 @@ I'm both a FE developer and a sensitive user. 🧑🏻‍💻
   <br />
 I strive for the best user experience. 💎
   <br />
-I try to write a grounded code for team's goal 🚀
+Also try to write a grounded code for goal 🚀
 </p>
 
 <hr />
