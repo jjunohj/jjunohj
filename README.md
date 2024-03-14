@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=50:a1c4fd,100:c2e9fb&height=120&section=header&text=Junho%20Cheong&fontSize=64&fontColor=343a40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=50:a1c4fd,100:c2e9fb&height=120&section=header&text=jjunohj&fontSize=64&fontColor=343a40&animation=fadeIn)
 
 <p align="center">
 유저의 눈을 가진 프론트엔드 개발자입니다.
