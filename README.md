@@ -41,11 +41,10 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/jjunohj?pet-id=586366714399511965"
+    src="https://render.gitanimals.org/farms/jjunohj"
     width="360"
     height="120"
   />
 </a>
-  
   
 </p>
