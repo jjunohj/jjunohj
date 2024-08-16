@@ -42,8 +42,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/jjunohj"
-    width="480"
-    height="200"
+    width="440"
+    height="180"
   />
 </a>
   
