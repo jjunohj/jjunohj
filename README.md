@@ -47,8 +47,4 @@
   />
 </a>
 
-<hr/>
-
-![jjunohj's github stats](https://github-readme-stats.vercel.app/api?username=jjunohj&show_icons=true&theme=ambient_gradient)
-  
 </p>
