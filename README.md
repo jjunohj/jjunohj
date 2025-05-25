@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50:a1c4fd,100:c2e9fb&height=120&section=header&text=jjunohj&fontSize=64&fontColor=343a40&animation=fadeIn)
 
 <p align="center">
-    <b>프로덕트에 몰입하는 개발자, 정준호입니다.</b>
+    프로덕트에 몰입하는 개발자, <b>정준호</b>입니다.
     <br/>
-    직접 경험과 공감이 더 나은 제품의 핵심이라 믿고,
-    <br/>
-    열렬한 사용자 관점에서 지속적 피드백과 개선점을 발견합니다.
+    직접 경험과 공감이 더 나은 제품의 핵심이라 믿고, 사용자 관점에서 지속적 피드백과 개선점을 발견합니다.
     <br/>
     사용자 경험을 끌어올려 비즈니스 성과 창출에 기여하고, 이를 수치화하는데 큰 보람을 느낍니다.
     <br/>
